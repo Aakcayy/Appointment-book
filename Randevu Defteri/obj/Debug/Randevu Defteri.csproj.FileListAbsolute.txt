@@ -1,0 +1,11 @@
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\bin\Debug\Randevu Defteri.exe.config
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\bin\Debug\Randevu Defteri.exe
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\bin\Debug\Randevu Defteri.pdb
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\obj\Debug\Randevu Defteri.csproj.AssemblyReference.cache
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\obj\Debug\Randevu Defteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\obj\Debug\Randevu_Defteri.Form1.resources
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\obj\Debug\Randevu_Defteri.Properties.Resources.resources
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\obj\Debug\Randevu Defteri.csproj.GenerateResource.cache
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\obj\Debug\Randevu Defteri.csproj.CoreCompileInputs.cache
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\obj\Debug\Randevu Defteri.exe
+C:\Users\Akcay\Desktop\Proglama\Ders-6 Ödevi\Randevu Defteri\Randevu Defteri\obj\Debug\Randevu Defteri.pdb
